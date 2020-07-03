@@ -1,6 +1,16 @@
-## Analista de dados
+## Analista de Dados e Infraestrutura
 
-You can use the [editor on GitHub](https://github.com/victorbenjamin1/benjamin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Analista de dados, com 6 anos de experiência na área de tecnologia, trabalhei com administração de redes de computadores, suporte ao cliente, administração de sistemas, monitoramento de aplicações e hoje meu foco é em todo o processo de análise de dados, desde a concepção do dado até a apresentação da informação com valor agregado para o negócio. Principais conhecimentos: 
+
+- Tableau
+- Linux
+- Python
+- SQL
+- ELK
+- NewRelic
+- Git
+- AWS
+- OCI 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
